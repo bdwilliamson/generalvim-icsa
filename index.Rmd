@@ -62,7 +62,7 @@ knitr::include_graphics(c(
 ```
 ```{r acknowledgments-2, echo = FALSE, fig.show = "hold", out.width = "50%", fig.align = "center"}
 knitr::include_graphics(c(
-    "img/people3.PNG"
+    "img/people3.png"
   ))
 ```
 
